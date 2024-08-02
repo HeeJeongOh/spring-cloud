@@ -1,5 +1,5 @@
+```plaintext
 spring-cloud
-├── README.md
 ├── client
 │   ├── first
 │   ├── gateway
