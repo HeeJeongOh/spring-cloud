@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first.iml" filepath="$PROJECT_DIR$/.idea/modules/first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first.main.iml" filepath="$PROJECT_DIR$/.idea/modules/first.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first.test.iml" filepath="$PROJECT_DIR$/.idea/modules/first.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product.main.iml" filepath="$PROJECT_DIR$/.idea/modules/product.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second.iml" filepath="$PROJECT_DIR$/.idea/modules/second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second.main.iml" filepath="$PROJECT_DIR$/.idea/modules/second.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second.test.iml" filepath="$PROJECT_DIR$/.idea/modules/second.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server.iml" filepath="$PROJECT_DIR$/.idea/modules/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud.iml" />
+    </modules>
+  </component>
+</project>
